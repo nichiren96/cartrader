@@ -6,7 +6,7 @@
     >
       <div class="mt-32 flex">
         <CarSideBar />
-        <CarCards />
+        <NuxtPage />
       </div>
     </div>
   </div>
