@@ -1,7 +1,8 @@
 <script setup>
 const route = useRoute();
+const { toTitleCase } = useUtilities();
 useHead({
-  title: `${route.params.name}`,
+  title: toTitleCase(route.params.name),
 });
 
 definePageMeta({
