@@ -1,6 +1,6 @@
 # A simple car trader app
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+The live website can be accessed [here](https://cartrader23.vercel.app/)
 
 ## Setup
 
